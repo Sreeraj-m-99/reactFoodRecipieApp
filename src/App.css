@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Abyssinica+SIL&family=Alkalami&family=Kanit:ital@1&family=Montserrat&family=PT+Sans+Narrow&family=Poppins&family=Roboto&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.hero-container {
+    height: 65vh;
+    overflow: hidden;
+    width: 100%;
+    background-image: url("https://images.unsplash.com/photo-1429554513019-6c61c19ffb7e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MjkzfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heroContent{
+    /* background-color: green; */
+    height: 300px;
+    width: 400px;
+    margin-left: 68%;
+    margin-top: 11%;
+    color: white;
+    padding: 9px;
+    font-size: 22px;
+    text-shadow: 3px 3px 10px  rgb(213, 186, 186); 
+}
